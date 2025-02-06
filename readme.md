@@ -29,10 +29,12 @@ You can use the following webversion: [Webversion](https://flipmyworld.later-ner
 ### Build
 1. **Download the game** or clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gravity-shift.git
+   git clone https://github.com/zwieb4ck/flip-my-world.git
    ```
 2. **Open the project in Unity** *(Recommended version 6000.0.32f1)*
-3. **Run the game**: Click "Play" in the Unity Editor or build the game for your platform.
+3. **Remove sounde files from audio manager** Sounds are not included in this version
+4. **Run the game**: Click "Play" in the Unity Editor or build the game for your platform.
+
 
 ## Game Jam Goals
 - Deliver a **polished gameplay experience** within the short development time.
